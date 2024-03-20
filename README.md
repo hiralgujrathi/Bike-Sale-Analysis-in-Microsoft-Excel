@@ -1,4 +1,1 @@
-- This extensive Excel project centers around a dataset featuring customer details including age, marital status, gender, annual income, number of children, distance from workplace, and the likelihood of purchasing a bike.
-- The dataset underwent a thorough cleaning process within Excel, ensuring accuracy and reliability.
-- Subsequently, a pivot table and a dashboard were created to visually represent key insights derived from the data.
-- This involved transforming raw information into meaningful visualizations, providing a comprehensive overview of customer characteristics and their potential impact on bike purchases.
+This comprehensive Excel project involves working with a dataset containing customer details. The data was cleaned in Excel, and a pivot table and dashboard was created to visually represent insights
